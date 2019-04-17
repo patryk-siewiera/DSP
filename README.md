@@ -1,6 +1,4 @@
-# DSP
-
-## Signal Processing Projects:
+# Signal Processing Projects:
 
 ## dolbyCaseWeek:
 >Przetwarzanie i analiza strumieni audio z wykorzystaniem języka programowania Python i zewnętrznych bibliotek, basics of: numpy, matplotlib, wave, pyaudio - 04.04.19
