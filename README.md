@@ -5,7 +5,7 @@
 
 ## simpleSignals:
 - Generating Basic Signals (sinus, triangle, square)
-- Framing ,and hamming window (setup, set frame and step, windowing - hamming )
+- Framing, and hamming window (setup, set frame and step, windowing - hamming )
 
 ## utility:
 - Jupyter (IPython) notebooks features
