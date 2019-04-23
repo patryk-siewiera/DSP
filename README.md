@@ -9,3 +9,6 @@
 
 ## utility:
 - Jupyter (IPython) notebooks features
+
+## librosa:
+- Waveform, Spectogram (lin, log, mel)
